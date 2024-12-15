@@ -19,7 +19,7 @@
 To install the package, run:
 
 ```bash
-composer require gaza/validation-generator
+composer require ahmetsabri/gaza-validation-generator
 ```
 
 ---
