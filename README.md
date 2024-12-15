@@ -89,13 +89,13 @@ This package is open-source and licensed under the [MIT License](https://opensou
 
 ## Support
 
-For issues or questions, please open an issue on the [GitHub repository](https://github.com/your-username/gaza-validation-generator) or contact the maintainer at **your-email@example.com**.
+For issues or questions, please open an issue on the [GitHub repository](https://github.com/ahmetsabri/gaza-validation-generator) or contact the maintainer at **ahmedmahfouzjob@gmail.com**.
 
 ---
 
 ## Credits
 
-Developed with ❤️ by the Gaza Development Team.
+Developed with ❤️ 
 
 ---
 
