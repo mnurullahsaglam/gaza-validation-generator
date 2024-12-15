@@ -1,0 +1,27 @@
+{
+    "name": "ahmetsabri/validation-generator",
+    "description": "A Laravel package to generate validation rules for database tables",
+    "type": "library",
+    "license": "MIT",
+    "version": "1",
+    "autoload": {
+        "psr-4": {
+            "Ahmetsabri\\ValidationGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ahmed Sabry",
+            "email": "39857006+ahmetsabri@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Ahmetsabri\\ValidationGenerator\\ValidationGeneratorServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "stable"
+}
