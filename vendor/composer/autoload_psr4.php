@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Ahmetsabri\\ValidationGenerator\\' => array($baseDir . '/src'),
+    'Gaza\\ValidationGenerator\\' => array($baseDir . '/src'),
 );

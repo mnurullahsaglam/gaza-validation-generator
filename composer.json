@@ -1,25 +1,24 @@
 {
-    "name": "ahmetsabri/validation-generator",
+    "name": "ahmetsabri/gaza-validation-generator",
     "description": "A Laravel package to generate validation rules for database tables",
     "type": "library",
     "license": "MIT",
     "version": "1",
     "autoload": {
         "psr-4": {
-            "Ahmetsabri\\ValidationGenerator\\": "src/"
+            "Gaza\\ValidationGenerator\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "Ahmed Sabry",
-            "email": "39857006+ahmetsabri@users.noreply.github.com"
+            "name": "Ahmed Sabry"
         }
     ],
     "require": {},
     "extra": {
         "laravel": {
             "providers": [
-                "Ahmetsabri\\ValidationGenerator\\ValidationGeneratorServiceProvider"
+                "Gaza\\ValidationGenerator\\ValidationGeneratorServiceProvider"
             ]
         }
     },

@@ -1,9 +1,9 @@
 <?php
 
-namespace Ahmetsabri\ValidationGenerator;
+namespace Gaza\ValidationGenerator;
 
 use Illuminate\Support\ServiceProvider;
-use Ahmetsabri\ValidationGenerator\Console\ValidateTableCommand;
+use Gaza\ValidationGenerator\Console\ValidateTableCommand;
 
 class ValidationGeneratorServiceProvider extends ServiceProvider
 {
