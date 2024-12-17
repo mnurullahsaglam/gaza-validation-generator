@@ -5,9 +5,6 @@
 
 ---
 
-## Works for Laravel 11 and above ...
-
-
 ## Features
 
 - Generate validation rules for any database table with a single command.
